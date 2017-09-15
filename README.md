@@ -2,3 +2,4 @@
 Test repository for SEG2105  Lab
 
 "Hello  World!"
+"Goodbye World!"
